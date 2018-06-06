@@ -1,0 +1,16 @@
+{"coord":{"lon":32.04,"lat":54.78},
+"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"02d"}],
+"base":"stations",
+"main":
+{"temp":293.292,
+"pressure":1014.64,
+"humidity":85,
+"temp_min":293.292,
+"temp_max":293.292,
+"sea_level":1038.85,
+"grnd_level":1014.64},
+"wind":{"speed":5.77,"deg":56.5012},
+"clouds":{"all":8},
+"dt":1527241257,
+"sys":{"message":0.0029,"country":"RU","sunrise":1527211782,"sunset":1527271734},
+"id":491687,"name":"Smolensk","cod":200}
